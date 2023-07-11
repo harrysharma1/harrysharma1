@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="joy-boy-joy-boy-smile.gif" alt="luffy" width="996" height="556" loop=infinite>
+<img src="joy-boy-joy-boy-smile.gif" alt="luffy" width="498" height="278" loop=infinite>
 <!--
 **harrysharma1/harrysharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
