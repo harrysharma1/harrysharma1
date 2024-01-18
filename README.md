@@ -1,32 +1,4 @@
 ### Hi <img alt="Image description" src="assets/waving-hand.gif" title="Hello" width="20" height="20"/>
 <img src="assets/joy-boy-joy-boy-smile.gif" alt="luffy" width="498" height="278" loop=infinite>
 <img src="assets/gear-5-banner-gear-5.gif" alt="luffy" width="498" height="265" loop=infinite>
-|
-lMMMMWWWWK:MW,WWWWWWMWK;;;;,,,,'''..  ..':looollllll:,........'',''''...'''''...
-oWMMMMMWMl'cc'OWWWWWMMX,,,,,,,'''..,;cololllloooododddol;,... ',,,''..'.'''.''..
-xWMMMWMWN::::coNWWWWWMK;,,,,,'';:lolc:;'.'  .:' ..',;:cccoddl:,,,,''''',,'',.''.
-lKKXNNNKNOK0K0OkKK00OOo,,,,,;:ccc:,.   'c. :ooo:.c;   ..,:ccccl::,,'''',,,'''...
-.'''''''''''''''''''''''',:c:cc;.     cx:;xkOOOOllko.     .;cc::c:;,,,,,,;,,,...
-:''''''''''''''''''''':':lcc;.      .k0K:00000000oK0k       .;cccccc;,,,,;;,,'..
-x:'''''''''''''''''':o:::;'.       .O000O00000000k00Kd        ,cccccc;',,;,,;'..
-,cl,.'''''''''''''':c;:::c:.     : k00000000000000000K: .c d,  ,cccccc:;,;:;,,'.
-.....'cccllooooooo,,;cc:;''     :xl0000000000000000000O.:0;0O   :ccccccc;;;,'...
-.....:OkkkOOOOOOOO;,c:c:cc,     ooxOOOOOOO00000000OOO0OoO0d0K.  .ccccccc;;,'....
- .';coxkOO0OOOOkkkklcccccc.     xO0WWMMWX0O00000O0KNWWWMWX00d    .::::cc:,'.....
-;ldxkOOOkkkkOOkkOkkocccccc.     oXWWWKkWMW0000000KWWNkWWWMNO;   ,;,:cccc:'......
-KXXNNWWWWWWWWNNNXXNXx:ccc:..'  :xKNWWWWWWXK00k00KKXWMWWWWNKO: .::c:::cc:........
-NWWMWWWWWXNNNNWXXNWWWXocc:::xdlo0K00KKKK0000dl00KK0OO0KK00Kxloxoccc::c:,,'..... 
-WWMWWWWWWWMWWWK000OWWWWOc:::Ool:000000000000kx00KKKK0O0OO0OxllOkcccc;'x000,.....
-0O0KXW0000KWWW0KKKO0XKKXXOdclxdxd00O0O00000000000000000O00ddxOx;::,'.l000O.....o
-''''',l0KKK0MMXO0K0''''''';loOkddlO0000000000000KKK000KK0ddc:..;:::;'k000:...:O0
-kkkdl,'c0KK00k,o0KOxOOOkdc''';0WWWN0OO000000000000000kxo:........,;;:0K0x'..o000
-WWWWWWKo:OK0O;cxK0ONWWWWWWNk,''XWWKO,'.,:cloooocccllll;.........''''o000,;,xK00x
-MMMMMWWWX;k0KOKO00ONWWWMMWWW0''kW00o'.....,c.';cooll:.......''''''..x00d':k00Ol'
-WWMWWWWWXkxO0K000OOOXNWWWWMWW,'kX0K,'.''..lllcoooll;....'''''''''.';0K000000OOK0
-xxKXXXXXkKK00k00k00000x0WWMWW:;N00O'.''''c0kolodxk:'''''''''''',oddk000000OO000O
-d:kkkdk00O00KxkxoooloKK0WWMWNlNWk0x'.''''d0000000:'''''''''''''x0000KkO0kkOO00OO
-WWWWMWKOK00dccclcoooO00NWWWWWWWX00o'.''''c000000:''''''''''''',K0kololllcoolldk0
-MWWMWXXKkOdlolcooox0kkWKKKKWWWW0K0x'.'''''O000Kd'''''''''''''''x000kdollolclloxk
-x',Xk'.dd,dkO0OOOOKOo;W:l0KWWWWO000Oo,'''':0KKO,''''''''''''''.''oOO0OOkkkOO00Oc
-;;.x.;.'x.cc.O00KxKKk'K,:odK00xO00000x'''''l0kc''''''''''''''.''.o00O00kO00000c.
-kl;c,dx,c.ok;:00KkOK0,k:,;ckkkx0000000c'''.':o'''''''''''''''.''.lxK0O000000000'
+
