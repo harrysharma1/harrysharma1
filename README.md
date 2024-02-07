@@ -18,8 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysharma1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysharma1&show_icons=true&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrysharma1&show_icons=true&locale=en&layout=compact" alt="harrysharma1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrysharma1&show_icons=true&locale=en" alt="harrysharma1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrysharma1&" alt="harrysharma1" /></p>
